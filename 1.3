@@ -1,4 +1,0 @@
-import math
-a=float(input())
-s=math.sqrt(a)
-print("{:.3f}".format(s))
