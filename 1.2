@@ -1,4 +1,0 @@
-s=int(input())
-da=s*0.4
-ha=s*0.2
-print(int(s+da+ha))
